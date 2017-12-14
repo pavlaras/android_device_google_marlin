@@ -65,5 +65,6 @@ PRODUCT_PACKAGES += \
     FaceUnlock \
     FaceDetect \
     CalSync \
-    CalendarGoogle
+    CalendarGoogle \
+    ContactsGoogle   
 
